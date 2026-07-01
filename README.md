@@ -1,0 +1,2 @@
+# A-Bangladeshi-Clinical-Brain-Tumor-MRI-Dataset-for-Four-Class-Deep-Learning-Classification
+MRI is a curated, leakage-free brain tumor MRI dataset sourced from Bangladeshi clinical settings, organized for four-class classification — Glioma, Meningioma, Pituitary, and No Tumor. This repository contains the end-to-end preprocessing pipeline used to build the dataset, plus a baseline model benchmark confirming its quality and learnability.
